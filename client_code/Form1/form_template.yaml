@@ -1,6 +1,6 @@
 components:
 - layout_properties: {grid_position: 'FNIZAM,PIRQMB'}
-  name: form1_1
+  name: form1
   properties: {}
   type: form:dep_t1qjl99m89az7a:Form1
 container: {type: ColumnPanel}
