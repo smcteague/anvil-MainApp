@@ -4,7 +4,7 @@ dependencies:
   dep_id: dep_lin1x4oec0ytd
   resolution_hints: {app_id: 4UK6WHQ6UX7AKELK, name: Material 3 Theme, package_name: m3}
   version: {version_tag: v1.2.2}
-- dep_id: dep_t1qjl99m89az7a
+- dep_id: dep_x4yo4cremy067q
   resolution_hints: {app_id: A5M3UGK3NXPLJOFL, name: Clone of SaaS Template, package_name: SaaS_Template}
   version: {branch: master}
 name: M3 App 1
